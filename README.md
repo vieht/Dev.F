@@ -18,6 +18,6 @@ El reto es generar un dashboard interactivo en Dash dónde podamos oberservar lo
 - Relación entre tiempo y puntuaciones
 - Relación entre idioma y puntuaciones
 
-Link: https://colab.research.google.com/drive/1cpX_yHcqCYsMnCsMyjjFIfFlNyfKpdUP?usp=sharing
+Link: https://colab.research.google.com/drive/1BNIirt1gsoJD7aulI53kue-b-_KwAJp8?usp=sharing
 
 [![IMAGE_ALT](https://img.youtube.com/vi/yst78g5t1A8/0.jpg)](https://www.youtube.com/watch?v=yst78g5t1A8)
