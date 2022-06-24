@@ -20,4 +20,6 @@ El reto es generar un dashboard interactivo en Dash dónde podamos oberservar lo
 
 Link: https://colab.research.google.com/drive/1BNIirt1gsoJD7aulI53kue-b-_KwAJp8?usp=sharing
 
+Link Video https://loom.com/share/42b59ede67e849de8fc98ee552fd5bd8
+
 
